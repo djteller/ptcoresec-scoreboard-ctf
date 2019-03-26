@@ -24,7 +24,7 @@
     , "jade": "0.26.3"
     , "connect-redis": "1.4.0"
     , "cookie": "0.0.4"
-    , "mysql": "2.0.0-alpha3"
+    , "mysql": "2.14.0"
     , "node_hash": "0.2.0"
     , "passport": "0.1.10"
     , "passport-local": "0.1.3"
